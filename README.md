@@ -1,4 +1,4 @@
-# Number_guessing_game
+# Guess_num_game
 Hello friends my name is machchhindra 
 it's my first tool on github 
 i'm not a big programmer 
